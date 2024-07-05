@@ -1,6 +1,3 @@
-Sí, la estructura y el contenido del `README.md` se ven bien. Sin embargo, hay un pequeño error en la sección "Instalación y Configuración" donde dice "Copiar código". Aquí tienes una versión ligeramente ajustada para mayor claridad y corrección de formato:
-
----
 
 <h1 align="center"> CONVERTIDOR DE DIVISAS </h1>
 
@@ -39,6 +36,4 @@ En cada submenú, el usuario tiene la opción de guardar el historial de consult
 
 Esta aplicación emplea la API `ExchangeRate` para obtener las tasas de cambio actualizadas. Asegúrate de tener una clave API válida y configurada en tu proyecto.
 
----
 
-Puedes proceder a confirmar estos cambios en tu repositorio si todo se ve bien.
